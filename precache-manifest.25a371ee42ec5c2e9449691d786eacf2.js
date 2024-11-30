@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "cab036ff744361a7947f8e7b86fb1e2a",
+    "revision": "e19cf52cc1570a13ebe48012d063ca37",
     "url": "./index.html"
   },
   {
-    "revision": "0a270207239432f0645c",
-    "url": "./static/css/main.b17282c7.chunk.css"
+    "revision": "80d02fe2659057e870ac",
+    "url": "./static/css/main.50b6d39e.chunk.css"
   },
   {
-    "revision": "be8d834e06e1e164780d",
-    "url": "./static/js/2.8a2ef67c.chunk.js"
+    "revision": "7320e900d42735a8e8fd",
+    "url": "./static/js/2.5601f54f.chunk.js"
   },
   {
-    "revision": "0a270207239432f0645c",
-    "url": "./static/js/main.60c4f5ce.chunk.js"
+    "revision": "80d02fe2659057e870ac",
+    "url": "./static/js/main.6e14b035.chunk.js"
   },
   {
-    "revision": "bfba2a34f9928e5e0d9c",
-    "url": "./static/js/runtime-main.fb7e7b0c.js"
+    "revision": "364396f144fa0b266c9c",
+    "url": "./static/js/runtime-main.fa9e825f.js"
   },
   {
     "revision": "21f233e19402cc4a66866a7f31191f0d",
@@ -62,6 +62,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "dcd6dee2bd7458a4a576dc131506fd83",
     "url": "./static/media/animated_logo.dcd6dee2.svg"
+  },
+  {
+    "revision": "ba4f00c9ffda4fc5784783cbf4d6b26d",
+    "url": "./static/media/arbisoft-logo.ba4f00c9.svg"
+  },
+  {
+    "revision": "a7e580cb3bd89c20500fce34a3b63e56",
+    "url": "./static/media/aws-logo.a7e580cb.png"
   },
   {
     "revision": "058eca4cbdc03a1dad9a6bb943ac7831",
@@ -224,6 +232,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "./static/media/muffito_logo.069938a8.png"
   },
   {
+    "revision": "b88125a66e9fd82c8bab60ab6642a7a7",
+    "url": "./static/media/ncr-logo.b88125a6.png"
+  },
+  {
     "revision": "95a12a2b8c3149cce2175679755c4b4d",
     "url": "./static/media/nptel_logo.95a12a2b.png"
   },
@@ -232,8 +244,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "./static/media/ntnu-logo.cdd4155f.png"
   },
   {
+    "revision": "e6a3ec4e3f85a7aac13860d7c98305d1",
+    "url": "./static/media/perfekt-logo.e6a3ec4e.png"
+  },
+  {
     "revision": "414dfbd98516b39255a3e22ed90b3f7d",
     "url": "./static/media/portfolio.414dfbd9.gif"
+  },
+  {
+    "revision": "10150ddf5084fb2ea96cbdbcf2237740",
+    "url": "./static/media/profile.10150ddf.jpg"
   },
   {
     "revision": "5faf790badc18fa9030f94836ece1df1",
@@ -250,6 +270,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "33d1fe5137ce5b6cf7c648fc5cb2cf70",
     "url": "./static/media/sibau-logo.33d1fe51.png"
+  },
+  {
+    "revision": "a97e0abda6123bfe0725b3396c5087f6",
+    "url": "./static/media/speridian-logo.a97e0abd.png"
   },
   {
     "revision": "2c497738be3831492aeb6bdc43f19154",
