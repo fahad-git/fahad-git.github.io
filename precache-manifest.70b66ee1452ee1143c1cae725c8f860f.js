@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e19cf52cc1570a13ebe48012d063ca37",
+    "revision": "c093c964832da98514019215603c2275",
     "url": "./index.html"
   },
   {
-    "revision": "80d02fe2659057e870ac",
+    "revision": "ac357c48ba585fcacb2c",
     "url": "./static/css/main.50b6d39e.chunk.css"
   },
   {
-    "revision": "7320e900d42735a8e8fd",
-    "url": "./static/js/2.5601f54f.chunk.js"
+    "revision": "884be2a53a96b52ff759",
+    "url": "./static/js/2.2d16e1c2.chunk.js"
   },
   {
-    "revision": "80d02fe2659057e870ac",
-    "url": "./static/js/main.6e14b035.chunk.js"
+    "revision": "ac357c48ba585fcacb2c",
+    "url": "./static/js/main.f16c2825.chunk.js"
   },
   {
     "revision": "364396f144fa0b266c9c",
@@ -52,6 +52,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "./static/media/Montserrat-Regular.ee653992.ttf"
   },
   {
+    "revision": "2149fe0f89b839e8f15b57079c4b18f5",
+    "url": "./static/media/acm-logo.2149fe0f.png"
+  },
+  {
     "revision": "16559172ca1d4d552390b48f19e102ba",
     "url": "./static/media/address_image.16559172.svg"
   },
@@ -82,6 +86,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "fee92c18b1cfbd1faa704c51047f113d",
     "url": "./static/media/codeInLogo.fee92c18.png"
+  },
+  {
+    "revision": "cb38a85b8d14735b64c5bd1a068aae4d",
+    "url": "./static/media/connect-logo.cb38a85b.png"
   },
   {
     "revision": "5f915405511f649dad433a6db9adbff4",
@@ -236,6 +244,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "./static/media/ncr-logo.b88125a6.png"
   },
   {
+    "revision": "d060cf390d453807170b584f8d8749be",
+    "url": "./static/media/next-logo.d060cf39.png"
+  },
+  {
     "revision": "95a12a2b8c3149cce2175679755c4b4d",
     "url": "./static/media/nptel_logo.95a12a2b.png"
   },
@@ -252,6 +264,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "./static/media/portfolio.414dfbd9.gif"
   },
   {
+    "revision": "1d799eafad7390b7cd4cab1cd5670dba",
+    "url": "./static/media/primatics-logo.1d799eaf.png"
+  },
+  {
     "revision": "10150ddf5084fb2ea96cbdbcf2237740",
     "url": "./static/media/profile.10150ddf.jpg"
   },
@@ -266,6 +282,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "71408db71465afd742233e4a96f06526",
     "url": "./static/media/pwa.71408db7.png"
+  },
+  {
+    "revision": "cfcdf8f508489fcfbb5ad1c802259467",
+    "url": "./static/media/sbp-logo.cfcdf8f5.png"
   },
   {
     "revision": "33d1fe5137ce5b6cf7c648fc5cb2cf70",
@@ -294,5 +314,9 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "d63630893eb8cb64af65f395d393c481",
     "url": "./static/media/ui_ux_design.d6363089.svg"
+  },
+  {
+    "revision": "e3b7027ec9db344ce7dde0056be9a91a",
+    "url": "./static/media/vsi-logo.e3b7027e.png"
   }
 ]);
