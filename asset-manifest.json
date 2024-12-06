@@ -1,19 +1,20 @@
 {
   "files": {
     "main.css": "./static/css/main.a26d07f8.chunk.css",
-    "main.js": "./static/js/main.33eb67ab.chunk.js",
-    "main.js.map": "./static/js/main.33eb67ab.chunk.js.map",
+    "main.js": "./static/js/main.50826cb3.chunk.js",
+    "main.js.map": "./static/js/main.50826cb3.chunk.js.map",
     "runtime-main.js": "./static/js/runtime-main.fa9e825f.js",
     "runtime-main.js.map": "./static/js/runtime-main.fa9e825f.js.map",
-    "static/js/2.3a24c827.chunk.js": "./static/js/2.3a24c827.chunk.js",
-    "static/js/2.3a24c827.chunk.js.map": "./static/js/2.3a24c827.chunk.js.map",
+    "static/js/2.4ba3e5c4.chunk.js": "./static/js/2.4ba3e5c4.chunk.js",
+    "static/js/2.4ba3e5c4.chunk.js.map": "./static/js/2.4ba3e5c4.chunk.js.map",
     "index.html": "./index.html",
-    "precache-manifest.d35f8a457e27d14374c91a80fb11376d.js": "./precache-manifest.d35f8a457e27d14374c91a80fb11376d.js",
+    "precache-manifest.97f35f0673c5cfdbe83615bbec3e4ecd.js": "./precache-manifest.97f35f0673c5cfdbe83615bbec3e4ecd.js",
     "service-worker.js": "./service-worker.js",
     "static/css/main.a26d07f8.chunk.css.map": "./static/css/main.a26d07f8.chunk.css.map",
     "static/media/index.css": "./static/media/Montserrat-Regular.ee653992.ttf",
     "static/media/acm-logo.png": "./static/media/acm-logo.2149fe0f.png",
     "static/media/address_image.svg": "./static/media/address_image.16559172.svg",
+    "static/media/animated-muhammad.png": "./static/media/animated-muhammad.89b3ee59.png",
     "static/media/animated_ashutosh.png": "./static/media/animated_ashutosh.eaf02c2d.png",
     "static/media/animated_logo.svg": "./static/media/animated_logo.dcd6dee2.svg",
     "static/media/arbisoft-logo.svg": "./static/media/arbisoft-logo.ba4f00c9.svg",
@@ -69,8 +70,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.fa9e825f.js",
-    "static/js/2.3a24c827.chunk.js",
+    "static/js/2.4ba3e5c4.chunk.js",
     "static/css/main.a26d07f8.chunk.css",
-    "static/js/main.33eb67ab.chunk.js"
+    "static/js/main.50826cb3.chunk.js"
   ]
 }
