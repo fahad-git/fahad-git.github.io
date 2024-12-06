@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c093c964832da98514019215603c2275",
+    "revision": "82d9a9310a10ce39ef55bc5144ee0a9f",
     "url": "./index.html"
   },
   {
-    "revision": "ac357c48ba585fcacb2c",
-    "url": "./static/css/main.50b6d39e.chunk.css"
+    "revision": "9b4c7a30effb8b502087",
+    "url": "./static/css/main.a26d07f8.chunk.css"
   },
   {
-    "revision": "884be2a53a96b52ff759",
-    "url": "./static/js/2.2d16e1c2.chunk.js"
+    "revision": "33f260c0475d67998636",
+    "url": "./static/js/2.3a24c827.chunk.js"
   },
   {
-    "revision": "ac357c48ba585fcacb2c",
-    "url": "./static/js/main.f16c2825.chunk.js"
+    "revision": "9b4c7a30effb8b502087",
+    "url": "./static/js/main.33eb67ab.chunk.js"
   },
   {
     "revision": "364396f144fa0b266c9c",
@@ -86,6 +86,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "fee92c18b1cfbd1faa704c51047f113d",
     "url": "./static/media/codeInLogo.fee92c18.png"
+  },
+  {
+    "revision": "85c0fe1ea05ee87198c32b0ba82f39f3",
+    "url": "./static/media/colorado_uni_logo.85c0fe1e.png"
   },
   {
     "revision": "cb38a85b8d14735b64c5bd1a068aae4d",
