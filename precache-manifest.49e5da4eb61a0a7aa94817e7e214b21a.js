@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "4c58e6eeff3e7bdfe7543563c7ab92f7",
+    "revision": "f1a253259e13f28db9e63ce4ba4fa4d7",
     "url": "./index.html"
   },
   {
-    "revision": "1fb50cf92dc62c0afa77",
+    "revision": "294e6c14f598d6190a99",
     "url": "./static/css/main.a26d07f8.chunk.css"
   },
   {
-    "revision": "b3c44dfdb4f1ed02ae73",
-    "url": "./static/js/2.4ba3e5c4.chunk.js"
+    "revision": "43ffb29790c33f37c390",
+    "url": "./static/js/2.2dcae7c1.chunk.js"
   },
   {
-    "revision": "1fb50cf92dc62c0afa77",
-    "url": "./static/js/main.2133b0f5.chunk.js"
+    "revision": "294e6c14f598d6190a99",
+    "url": "./static/js/main.fe2757c1.chunk.js"
   },
   {
     "revision": "364396f144fa0b266c9c",
@@ -50,6 +50,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "ee6539921d713482b8ccd4d0d23961bb",
     "url": "./static/media/Montserrat-Regular.ee653992.ttf"
+  },
+  {
+    "revision": "bbd50277252b71cf460bbc32aaff9482",
+    "url": "./static/media/Uni-luigi-bocconi-logo.bbd50277.png"
   },
   {
     "revision": "2149fe0f89b839e8f15b57079c4b18f5",
@@ -104,8 +108,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "./static/media/contactMail.5f915405.png"
   },
   {
+    "revision": "f550cff603a886947aa6938e6e68d382",
+    "url": "./static/media/coursera-logo.f550cff6.png"
+  },
+  {
     "revision": "ebf35d7f33ebbd4a4c6cff7e66e21fdb",
     "url": "./static/media/data_science.ebf35d7f.svg"
+  },
+  {
+    "revision": "dbaecc29704d35737884f9d5170e7239",
+    "url": "./static/media/datacamp-logo.dbaecc29.png"
   },
   {
     "revision": "75a7107b7739a46950f66de29779eb52",

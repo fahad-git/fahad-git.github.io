@@ -1,17 +1,18 @@
 {
   "files": {
     "main.css": "./static/css/main.a26d07f8.chunk.css",
-    "main.js": "./static/js/main.2133b0f5.chunk.js",
-    "main.js.map": "./static/js/main.2133b0f5.chunk.js.map",
+    "main.js": "./static/js/main.fe2757c1.chunk.js",
+    "main.js.map": "./static/js/main.fe2757c1.chunk.js.map",
     "runtime-main.js": "./static/js/runtime-main.fa9e825f.js",
     "runtime-main.js.map": "./static/js/runtime-main.fa9e825f.js.map",
-    "static/js/2.4ba3e5c4.chunk.js": "./static/js/2.4ba3e5c4.chunk.js",
-    "static/js/2.4ba3e5c4.chunk.js.map": "./static/js/2.4ba3e5c4.chunk.js.map",
+    "static/js/2.2dcae7c1.chunk.js": "./static/js/2.2dcae7c1.chunk.js",
+    "static/js/2.2dcae7c1.chunk.js.map": "./static/js/2.2dcae7c1.chunk.js.map",
     "index.html": "./index.html",
-    "precache-manifest.2f1e59f17247590b195df1212369b72a.js": "./precache-manifest.2f1e59f17247590b195df1212369b72a.js",
+    "precache-manifest.49e5da4eb61a0a7aa94817e7e214b21a.js": "./precache-manifest.49e5da4eb61a0a7aa94817e7e214b21a.js",
     "service-worker.js": "./service-worker.js",
     "static/css/main.a26d07f8.chunk.css.map": "./static/css/main.a26d07f8.chunk.css.map",
     "static/media/index.css": "./static/media/Montserrat-Regular.ee653992.ttf",
+    "static/media/Uni-luigi-bocconi-logo.png": "./static/media/Uni-luigi-bocconi-logo.bbd50277.png",
     "static/media/acm-logo.png": "./static/media/acm-logo.2149fe0f.png",
     "static/media/address_image.svg": "./static/media/address_image.16559172.svg",
     "static/media/animated-muhammad.png": "./static/media/animated-muhammad.89b3ee59.png",
@@ -25,7 +26,9 @@
     "static/media/colorado_uni_logo.png": "./static/media/colorado_uni_logo.85c0fe1e.png",
     "static/media/connect-logo.png": "./static/media/connect-logo.cb38a85b.png",
     "static/media/contactMail.png": "./static/media/contactMail.5f915405.png",
+    "static/media/coursera-logo.png": "./static/media/coursera-logo.f550cff6.png",
     "static/media/data_science.svg": "./static/media/data_science.ebf35d7f.svg",
+    "static/media/datacamp-logo.png": "./static/media/datacamp-logo.dbaecc29.png",
     "static/media/deeplearning_ai_logo.png": "./static/media/deeplearning_ai_logo.75a7107b.png",
     "static/media/developerActivity.svg": "./static/media/developerActivity.3e23ca14.svg",
     "static/media/dsc_logo.png": "./static/media/dsc_logo.63f707f2.png",
@@ -70,8 +73,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.fa9e825f.js",
-    "static/js/2.4ba3e5c4.chunk.js",
+    "static/js/2.2dcae7c1.chunk.js",
     "static/css/main.a26d07f8.chunk.css",
-    "static/js/main.2133b0f5.chunk.js"
+    "static/js/main.fe2757c1.chunk.js"
   ]
 }
